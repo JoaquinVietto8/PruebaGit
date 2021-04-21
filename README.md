@@ -8,7 +8,8 @@ Repositorio de prueba para comandos de git
 ## Contenido/Descripcion
 
 | Autor | Correo |
-| Joaquin Vietto | 2006111@ucc.edu.ar |
+|-------|--------|
+|Joaquin Vietto|2006111@ucc.edu.ar|
 
 ## Descrpicion
 
